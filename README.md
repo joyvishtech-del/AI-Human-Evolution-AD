@@ -47,18 +47,21 @@ This project uses **structured cinematic prompting**, combining:
 
 ## 📂 Key Files
 
-- `prompts/scene1_flow_prompt.txt` → Scene 1 video prompt
-- `prompts/scene2_flow_prompt.txt` → Scene 2 video prompt
-- `prompts/nano_banana_image_prompts.txt` → Image generation prompts
-- `prompts/SCENE1_STARTIMAGE_Factory_Humans_still_present_nbanana_prompt.txt` → Image 1 generation prompt
-- `prompts/SCENE1_ENDIMAGE_Job_loss_Moment_EmotionalPeak_nbanana_prompt.txt` → Image 2 generation prompt
+- 'README.md'
+- 'Prompt-Scene1-StartImage-Factory-Humans_still_present.md' → Image 1 generation prompt
+- 'Prompt-SCENE 1_END_IMAGE_Job_Loss_Moment.md'→ Image 2 generation prompt
+- 'Prompt_Scene1_Full_Prompt.md'→ Scene 1 video prompt
+- 'Prompt_Scene2_Full_Flow_Prompt.md'→ Scene 2 video prompt
+- 'Scene1_ START_IMAGE-Factory–Humans_still_present_nbanana.png'→  Image 1 generated
+- 'Scene1_End_image_Job_loss_Moment_EmotionalPeak_Nbanana.png'→  Image 2 generated
+- 'FullFlow_AI_Human_Evoluation_Adaptation.mp4' → Final Output Video
 
   
 
 ## 🎥 Output
 
 Final cinematic video:
-👉 `output/final_video.mp4`
+👉 `FullFlow_AI_Human_Evoluation_Adaptation.mp4 → Final Output Video`
 
 ---
 
